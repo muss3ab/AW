@@ -1,0 +1,27 @@
+footer {
+    /* position: fixed; */
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background: white;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+.inner-div {
+    background-color: #f4f4f4;
+    padding: 2%;
+    justify-content: center;
+    align-items: center;
+    text-align: right;
+}
+label,small{
+    padding:1%;
+}
+input{
+    padding: 1%;
+    text-align: right;
+}
+.form-group{
+    margin-bottom: 1%;
+}
